@@ -5,6 +5,10 @@
 
 
 for this tiny project I used:
+
+
 POSTMAN - to easily test web services
+
 MongoDB - to store the data
+
 Node.js \ Express
